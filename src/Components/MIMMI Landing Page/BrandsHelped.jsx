@@ -33,8 +33,6 @@ function BrandsHelped() {
             We bring digital marketing and web development to life with creativity and precision.
           </p>
           </div>
-
-          
         </div>
       </section>
     </>

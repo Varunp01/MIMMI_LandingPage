@@ -65,7 +65,7 @@ function Services() {
           </div>
 
           <div className="grid">
-            <div className=" p-4 sm:p-8 font-sans">
+            <div className=" sm:p-8 font-sans">
               <div className="max-w-6xl mx-auto">
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">

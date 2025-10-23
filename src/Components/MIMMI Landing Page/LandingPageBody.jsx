@@ -14,19 +14,19 @@ function LandingPageBody() {
   return (
     <>
       <Navbar />
-      <div className="w-[100%] h-20 bg-green-300" id='Home_Section'>&nbsp;</div>
-      <div className="w-[100%] pt-5 lg:pt-5 bg-green-600">&nbsp;</div>
+      <div className="w-[100%] h-20 bg-gradient-to-b from-white to-orange-100" id='Home_Section'>&nbsp;</div>
+      <div className="w-[100%] pt-5 lg:pt-5 bg-orange-100">&nbsp;</div>
       <HeroSection />
-      <div className="w-[100%] pt-5 lg:pt-5 bg-green-600">&nbsp;</div>
+      <div className="w-[100%] pt-5 lg:pt-5 bg-gradient-to-b from-orange-100 to-orange-200">&nbsp;</div>
       <Services />
-      <div className="w-[100%] pt-5 lg:pt-5 bg-green-600">&nbsp;</div>
+      <div className="w-[100%] pt-5 lg:pt-5 bg-gradient-to-b from-orange-200 to-orange-100">&nbsp;</div>
       <BrandsHelped />
       <CustomCarouselSection />
-      <div className="w-[100%] pt-5 lg:pt-5 bg-green-600">&nbsp;</div>
+      <div className="w-[100%] pt-5 lg:pt-5 bg-gradient-to-b from-orange-100 to-orange-200">&nbsp;</div>
       <BrandStory />
-      <div className="w-[100%] pt-5 lg:pt-5 bg-green-600">&nbsp;</div>
+      <div className="w-[100%] pt-5 lg:pt-5 bg-gradient-to-b from-orange-200 to-orange-100">&nbsp;</div>
       <Teams />
-      <div className="w-[100%] pt-5 lg:pt-5 bg-green-600">&nbsp;</div>
+      <div className="w-[100%] pt-5 lg:pt-5 bg-gradient-to-b from-orange-100 to-orange-200">&nbsp;</div>
       <Result />
     </>
   )
